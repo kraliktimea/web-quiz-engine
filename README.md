@@ -4,3 +4,4 @@ Gathers information about solved quizzes and lists them.
 
 ## technologies
 Java, Spring Boot, REST API, embedded H2 database, security.
+IntelliJ Idea, Gradle.
